@@ -1,7 +1,33 @@
-👋 Hi, I’m @SaraSanGar
-I'm a computer cience student at Canary Islands, Spain 🏝
+# 👋 Hi there! I'm @SaraSanGar
 
-- 👀 I’m interested in coding and art
-- 💻 Frontend lover
-- 🌱 I’m currently computer vision and WebGL
-- 📫 How to reach me by email sara.sanchez.g29@gmail.com
+I'm Sara, a software developer from the Canary Islands 🏝 with a background in **Computer Science** and a passion for building **interactive user experiences**.
+
+---
+
+## 💻 What I do
+
+- 🎓 Computer Science Graduateat the **University of las Palmas de Gran Canaria**
+- International experience: Erasmus at **Vilniaus Universitetas**. 
+- 🎓 Master's student in Software Development **Universidad de Granada** – Specializing in **UX & Multimodal Interfaces**
+- 👩‍💻 Frontend developer at **[Mentoor] (https://mentoor.es)**, using Angular, Astro & Firebase
+- 🧠 Curious about **data visualization**, **computer vision**,  **data preprocessing** and **teaching**
+- 🤝 I enjoy working on **multidisciplinary projects** that blend tech, design, and real-world needs
+
+---
+
+## 🛠 Tech I use
+
+**Frontend:** Angular · React · Astro · HTML/CSS  
+**Backend & Tools:** Firebase · Python · Google APIs · Git  
+**Other:** UX Design · Agile · TDD · Data analysis
+
+---
+
+## 📫 Get in touch
+
+- 💌 sara.sanchez.g29@gmail.com  
+- 🌐 [LinkedIn](https://www.linkedin.com/in/sara-sánchez-garcía/)
+
+---
+
+> "Good software is like art — it solves problems with elegance."
