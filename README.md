@@ -9,7 +9,6 @@ I'm Sara, a software developer from the Canary Islands 🏝 with a background in
 - 🎓 Computer Science Graduateat the **University of las Palmas de Gran Canaria**
 - International experience: Erasmus at **Vilniaus Universitetas**. 
 - 🎓 Master's student in Software Development **Universidad de Granada** – Specializing in **UX & Multimodal Interfaces**
-- 👩‍💻 Frontend developer at **[Mentoor](https://mentoor.es)**, using Angular, Astro & Firebase
 - 🧠 Curious about **data visualization**, **computer vision**,  **data preprocessing** and **teaching**
 - 🤝 I enjoy working on **multidisciplinary projects** that blend tech, design, and real-world needs
 
