@@ -22,10 +22,10 @@ I'm Sara, a software developer from the Canary Islands with a background in **Co
 
 ---
 
-## 📫 Get in touch
+## Get in touch
 
-- 💌 sara.sanchez.g29@gmail.com  
-- 🌐 [LinkedIn](https://www.linkedin.com/in/sara-sánchez-garcía/)
+- sara.sanchez.g29@gmail.com  
+- [LinkedIn](https://www.linkedin.com/in/sara-sánchez-garcía/)
 
 ---
 
