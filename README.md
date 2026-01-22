@@ -1,6 +1,6 @@
 # Hi there! I'm @SaraSanGar
 
-I'm Sara, a software developer from the Canary Islands 🏝 with a background in **Computer Science** and a passion for building **interactive user experiences**.
+I'm Sara, a software developer from the Canary Islands with a background in **Computer Science** and a passion for building **interactive user experiences**.
 
 ---
 
